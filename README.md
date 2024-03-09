@@ -1,3 +1,3 @@
 # PTSR_public
 
-to update...
+The official implementation of _Pattern-wise Transparent Sequential Recommendation_
